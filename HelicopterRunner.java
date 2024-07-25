@@ -9,7 +9,6 @@ class HelicopterRunner{
 		Helicopter helicopter2=new Helicopter();
 		Helicopter helicopter3=new Helicopter();
 		Helicopter helicopter4=new Helicopter();
-		System.out.println(helicopter);
 				
 		Market market=new Market();
 		Market market1=new Market();
